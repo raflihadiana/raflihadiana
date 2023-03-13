@@ -1,6 +1,7 @@
 # Hi there, Rafli here!👋
 - You can call me, I'm Bangkit 2023 Student at Cloud Computing Learning Path
 - Currently i'm a 6th Semester at Telkom University major of Telecommunication Engineering
+- Student intern at XL Axiata as a Network Planning Assurance
 
 ## Code
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalyb&layout=compact&theme=dracula&langs_count=6)](https://github.com/faishalyb) -->
