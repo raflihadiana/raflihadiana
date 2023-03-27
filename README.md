@@ -7,8 +7,8 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raflihadiana&layout=compact&theme=dracula&langs_count=6)](https://github.com/raflihadiana) -->
 <p align="left">
 <a href="https://github.com/raflihadiana">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raflihadiana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflihadiana&layout=compact&theme=algolia&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raflihadiana&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflihadiana&layout=compact&theme=cobalt&langs_count=6"/>
 </a>
 </p>
 
