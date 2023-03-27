@@ -4,11 +4,11 @@
 - Student intern at XL Axiata as a Network Planning Assurance
 
 ## Code
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faishalyb&layout=compact&theme=dracula&langs_count=6)](https://github.com/raflihadiana) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raflihadiana&layout=compact&theme=dracula&langs_count=6)](https://github.com/raflihadiana) -->
 <p align="left">
 <a href="https://github.com/raflihadiana">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faishalyb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faishalyb&layout=compact&theme=algolia&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raflihadiana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raflihadiana&layout=compact&theme=algolia&langs_count=6"/>
 </a>
 </p>
 
