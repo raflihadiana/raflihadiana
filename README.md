@@ -1,5 +1,6 @@
 # Hi there, Rafli here!👋
 - Currently i'm a 6th Semester at Telkom University major of Telecommunication Engineering
+- Research Assistan Focusing in SDN - Cloud Native at Adaptive Network Laboratory
 - Student intern at XL Axiata as a Network Planning Assurance
 
 ## Code
