@@ -6,11 +6,13 @@ Cloud Engineer in Quantum Teknologi
 *   🌍  I'm based in Bandung, Indonesia
 *   🖥️  See my portfolio at [Linktree](http://linktr.ee/raflihadiana)
 *   ✉️  You can contact me at [raflihadian24@gmail.com](mailto:raflihadian24@gmail.com)
-*   🚀  I'm currently working on Cyber-Defend Tools
+*   🚀  I'm currently working on Cyber-Defend Tools and [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/3811015.png)](https://tryhackme.com/p/3811015)
 *   🧠  I'm learning Cloud Security
 *   ⚡  Just keep your curiosity awakens you
   
-<a href="https://www.github.com/raflihadiana" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/raflihadiana?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a><a href="https://www.x.com/priajahe" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/priajahe?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917"
-                /></a>
+[![GitHub Followers](https://img.shields.io/github/followers/raflihadiana?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917)](https://www.github.com/raflihadiana)
+[![Twitter Followers](https://img.shields.io/twitter/follow/priajahe?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=1c1917)](https://www.x.com/priajahe)
+
+
+
+
