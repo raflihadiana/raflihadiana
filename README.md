@@ -67,61 +67,41 @@ End-to-end monitoring with Signoz, Prometheus, and Grafana for production-grade 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 
 ---
 
-## 🎓 Experience & Education
+## 🚀 Current Projects
 
-**Infrastructure Engineer** @ Quantum Teknologi (Nusantara)  
-*Sep 2024 - Present*
-- Cloud migrations (AWS → LayerStack → Kubernetes → Huawei Cloud)
-- Infrastructure cost optimization and multi-cloud strategy
-- End-to-end observability implementation
-
-**System Integrator** @ Telecom Infra Project  
-*Nov 2023 - Jul 2024*
-- Developed 5G VNF use cases on OpenAirInterface
-- Web applications for VNF instance management
-
-**Bachelor of Engineering** - Telecommunications Engineering  
-*Telkom University, 2020 - 2024*
-- Future Network & Cloud Native Research at Adaptive Network Laboratory
-- Open Cellular Network Technology Research at TIP CoE
+- **🏗️ Multi-Cloud Infrastructure** - Managing production workloads across AWS, Huawei Cloud, and LayerStack with Kubernetes
+- **🔐 DevSecOps Pipeline** - Full CI/CD automation with Rancher Fleet, Jenkins, and SonarQube integration
+- **📡 5G Network Lab** - OpenAirInterface deployment and VNF orchestration for next-gen networks
+- **📊 Observability Platform** - End-to-end monitoring with Signoz, Prometheus, and Grafana stack
+- **🌐 Personal Website** - [jurnalamm.dev](https://jurnalamm.dev) - Hugo-based blog with CI/CD automation
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Legacy Work
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/3811015.png)](https://tryhackme.com/r/p/quantumquasar)
-
----
-
-## 💡 Beyond Code
-
-When I'm not engineering cloud infrastructure, you'll find me:
-
-- 🏃 **Trail Running** — Exploring mountains and nature trails
-- 🌏 **Traveling** — Taiwan, and wherever adventure calls
-- ✍️ **Writing** — Creative expression on tech and life ([Medium](https://medium.com/@raflihadiana))
-- 📚 **Learning** — History, geography, and philosophical ideas
-- 📸 **Photography** — Capturing moments ([Instagram](https://instagram.com/raflihadiana))
+- **📱 Telecom Infra Project** - 5G VNF use cases and web applications for network management (2023-2024)
+- **🎓 Research Projects** - Future Network & Cloud Native at Adaptive Network Laboratory, Telkom University
+- **🔬 Open Cellular Network** - Research on Open Core and Open Access technologies at TIP CoE
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raflihadiana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=14b8a6&icon_color=14b8a6&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raflihadiana&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=14b8a6&text_color=c9d1d9)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raflihadiana&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=14b8a6&line=14b8a6&point=c9d1d9)
 
 </div>
 
